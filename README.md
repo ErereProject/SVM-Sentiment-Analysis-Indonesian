@@ -1,4 +1,4 @@
-# SVM-Sentiment-Analysis
+# SVM-Sentiment-Analysis-Indonesian
 ## Model
 Model yang dipergunakan adalah SVM (Support Vector Machine).
 ## Cara kerja
